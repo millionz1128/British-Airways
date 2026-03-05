@@ -1,9 +1,9 @@
 # British Airways Booking Completion Prediction
 
 ## Project Overview
-This project aims to predict whether a customer will complete a flight booking using behavioral, transactional, and geographic features.
+This project was completed as part of the Forage Data Science Job Simulation for British Airways. The objective is to predict whether a customer will complete a flight booking.
 
-The objective is not only to build a classification model, but to identify key drivers of booking completion and translate them into actionable business insights that can support marketing optimization and customer targeting strategies.
+Using customer-level flight search data, the project builds an **XGBoost classifier** to predict booking completion probability and identify the primary drivers influencing booking decisions.
 
 ## Problem Statement
 Online flight searches do not always result in completed bookings. Given the competitive nature of the airline industry and relatively low conversion rates, understanding booking intent is critical.
